@@ -6,11 +6,40 @@ Game Content Interaction & Visualization Platform
 https://phrogames.infinityfreeapp.com/Phro_games/index.html
 
 ## Features
-- UGC System
-- Real-time Interaction
-- AI-driven Survey Analytics
-- Interactive 3D Character Display
-- Game Content Visualization
+
+### User System
+
+* Login and logout system
+* Personalized welcome page
+* User avatar, profile, and login-day tracking
+
+### Community
+
+* Blog post publishing
+* Image upload
+* Comments, likes, editing, and deleting
+* Notification reminder
+
+### Game Content
+
+* Game hub page
+* Wuthering Waves content pages
+* Arknights content pages
+* Character, monster, weapon, gallery, and favorites modules
+
+### 3D Visualization
+
+* Interactive 3D model display
+* GLB model loading
+* Model action switching
+* Remote model loading and local caching
+
+### Interface
+
+* Chinese / English language switching
+* Responsive card-based layout
+* Animated game-style UI
+
 
 ## Tech Stack
 - PHP
@@ -21,8 +50,8 @@ https://phrogames.infinityfreeapp.com/Phro_games/index.html
 - UE5
 
 ## Preview
-<img width="2772" height="1648" alt="Home" src="https://github.com/user-attachments/assets/0697801d-98ae-4745-bf8c-0abf0c7f03cd" />
-<img width="2744" height="1651" alt="2DCharactor" src="https://github.com/user-attachments/assets/d6d101dd-0229-47e7-a307-6825ca76f2fa" />
-<img width="2749" height="1652" alt="3Dmonster" src="https://github.com/user-attachments/assets/5c38daf7-4174-4d8e-821b-febb6127cdb4" />
-<img width="2760" height="1651" alt="3DCharactor" src="https://github.com/user-attachments/assets/cd117a85-85da-4d34-80d4-da5dcd31c33c" />
-<img width="2729" height="1650" alt="Blog" src="https://github.com/user-attachments/assets/2f406c09-742e-4c8f-8c70-8616dd8859fa" />
+<img width="2792" height="1669" alt="Home" src="https://github.com/user-attachments/assets/2f1bd424-7358-472e-ab74-fb145650e1c9" />
+<img width="2752" height="1630" alt="3Dviewer" src="https://github.com/user-attachments/assets/2f337fca-8d14-4565-a8db-c5d43dcb4e29" />
+<img width="2789" height="1637" alt="2Dviewer" src="https://github.com/user-attachments/assets/365d9ed6-a0a1-42c4-a5eb-588218b4cf63" />
+<img width="2781" height="1692" alt="Community Interaction" src="https://github.com/user-attachments/assets/e214e125-3fdd-4302-bc57-a9d89cd6f72e" />
+
